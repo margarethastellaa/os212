@@ -1,3 +1,5 @@
+<!-- background: #121212 -->
+<!-- color: #fff -->
 ## Hi! I'm M. Margaretha Stella! 👋🏻
 ### ✨ Welcome to my Operating Systems GitHub Page ✨
 

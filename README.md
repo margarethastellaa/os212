@@ -1,8 +1,5 @@
-<!-- background: #fff4e3 -->
-<!-- color: #2d2422 -->
-
 ## Hi! I'm M. Margaretha Stella! 👋🏻
-### ✨ Welcome to my Operating Systems GitHub Page ✨
+### ✨ Welcome to My Operating Systems GitHub Pages ✨
 
 [LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/margarethastellaa/os212)
 

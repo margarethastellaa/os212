@@ -1,5 +1,5 @@
-## Hi! I'm M. Margaretha Stella!
-### Welcome to My Operating Systems GitHub Pages 
+## Hi! I'm M. Margaretha Stella! 👋🏻
+### ✨ Welcome to My Operating Systems GitHub Pages ✨
 
 [LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/margarethastellaa/os212)
 

@@ -8,3 +8,4 @@ ZCZC W00  90 L80 Watching Netflix
 ZCZC W00  20 L01 Enroll all the subject
 ZCZC W00  60 L82 Read a book
 ZCZC W00  30 L99 Design for Instagram feeds
+ZCZC W00  100 L02 Operating System ZOOM meeting

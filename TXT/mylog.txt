@@ -1,7 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00  45 L10 Week 00 persiapan
+ZCZC W00  45 L10 Prepare for Week 00
 ZCZC W00  10 L03 GitHub related
 ZCZC W00  30 L04 GitHub Pages related
 ZCZC W00  90 L80 Watching Netflix
@@ -9,3 +9,4 @@ ZCZC W00  20 L01 Enroll all the subject
 ZCZC W00  60 L82 Read a book
 ZCZC W00  30 L99 Design for Instagram feeds
 ZCZC W00  100 L02 Operating System ZOOM meeting
+ZCZC W00  45 L02 Operating System ZOOM meeting for QnA

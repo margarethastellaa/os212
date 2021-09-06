@@ -11,3 +11,4 @@ ZCZC W00  30 L99 Design for Instagram feeds
 ZCZC W00  100 L02 Operating System ZOOM meeting
 ZCZC W00  45 L02 Operating System ZOOM meeting for QnA
 ZCZC W00  120 L15 Assignment #5: Reading and watching OS related
+ZCZC W01  90 L02 Operating System ZOOM meeting

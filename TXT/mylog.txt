@@ -13,6 +13,9 @@ ZCZC W00  45 L02 Operating System ZOOM meeting for QnA
 ZCZC W00  120 L15 Assignment #5: Reading and watching OS related
 ZCZC W01  5 L22 Operating System Quiz
 ZCZC W01  90 L02 Operating System ZOOM meeting
-ZCZC W01  60 L02 Operating System meeting with teaching assistant
+ZCZC W01  60 L08 Operating System meeting with teaching assistant
 ZCZC W01  30 L31 Installing VirtualBox
 ZCZC W01  30 L28 Installing putty and winscp
+ZCZC W01  15 L11 Assignment #01
+ZCZC W01  60 L12 Assignment #02
+ZCZC W01  60 L64 Helping OS related problem to a friend

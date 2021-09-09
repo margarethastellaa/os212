@@ -19,3 +19,5 @@ ZCZC W01  30 L28 Installing putty and winscp
 ZCZC W01  15 L11 Assignment #01
 ZCZC W01  60 L12 Assignment #02
 ZCZC W01  60 L64 Helping OS related problem to a friend
+ZCZC W01  35 L02 Operating System ZOOM meeting for QnA
+ZCZC W01  15 L99 Design a poster

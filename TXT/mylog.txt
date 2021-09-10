@@ -23,5 +23,6 @@ ZCZC W01  35 L02 Operating System ZOOM meeting for QnA
 ZCZC W01  15 L99 Design a poster
 ZCZC W01  90 L80 Watching Disney+
 ZCZC W01  90 L14 Assignment #04
+ZCZC W01  15 L16 Assignment #06
 ZCZC W01  45 L15 Assignment #05
 ZCZC W01  10 L17 Assignment #07

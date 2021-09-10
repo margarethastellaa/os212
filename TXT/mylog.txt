@@ -29,4 +29,4 @@ ZCZC W01  10 L17 Assignment #07
 ZCZC W01  90 L13 Assignment #03
 ZCZC W01  110 L18 Assignment #08
 ZCZC W01  75 L19 Assignment #09
-ZCZC W02  30 L06 GSGS related
+ZCZC W01  30 L06 GSGS related

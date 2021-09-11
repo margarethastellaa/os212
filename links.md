@@ -3,7 +3,7 @@ layout: default
 permalink: /LINKS/
 ---
 
-## LINKS
+## LINKS 👩🏻‍💻
 
 1. [Vim Basic](https://www.youtube.com/watch?v=pYQmaYpp9ts)<br>
 Menjelaskan dan mengajarkan konsep serta cara menggunakan Vim. Selain itu, menjelaskan keunggulan Vim dengan text editor yang lain. Video ini menarik karena dengan menonton video ini, kita dapat lebih memahami cara kerja Vim.

@@ -33,3 +33,5 @@ ZCZC W01  30 L06 GSGS related
 ZCZC W02  20 L22 OS Quiz
 ZCZC W02  90 L02 Operating System ZOOM meeting
 ZCZC W02  20 L02 Operating System ZOOM meeting for QnA
+ZCZC W02  60 L11 Assignment #01
+ZCZC W02  30 L12 Assignment #02

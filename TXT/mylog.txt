@@ -35,3 +35,13 @@ ZCZC W02  90 L02 Operating System ZOOM meeting
 ZCZC W02  20 L02 Operating System ZOOM meeting for QnA
 ZCZC W02  60 L11 Assignment #01
 ZCZC W02  30 L12 Assignment #02
+ZCZC W02  230 L13 Assignment #03
+ZCZC W02  10 L14 Assignment #04
+ZCZC W02  10 L15 Assignment #05
+ZCZC W02  10 L16 Assignment #06
+ZCZC W02  10 L17 Assignment #07
+ZCZC W02  10 L18 Assignment #08
+ZCZC W02  30 L19 Assignment #09
+ZCZC W02  30 L20 Assignment #10
+ZCZC W02  10 L09 Assignment #11
+ZCZC W02  5 L09 Assignment #12

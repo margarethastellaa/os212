@@ -7,4 +7,5 @@
 [MY LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/margarethastellaa/os212) | [LINKS](LINKS/) | [MY RANK](TXT/myrank.txt)
 
 ### Important Links
-1. [OS 212 Course Site](https://os.vlsm.org/)
+1. [OS 212 Course Site](https://os.vlsm.org/)<br>
+2. [OS 212 Assignment Site](https://osp4diss.vlsm.org/)

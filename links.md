@@ -17,3 +17,7 @@ Artikel ini sangat pas bagi kita yang baru memulai belajar bahasa C. Selain itu,
 Video ini berisi tutorial konsep dan penggunaan bahasa C. Disajikan dengan pembahasan yang menarik, jelas, dan tepat serta membahas seluruh aspek penting dari bahasa C.
 6. [Why C is so Influential - Computerphile](https://www.youtube.com/watch?v=ci1PJexnfNE)<br>
 Mungkin beberapa dari kita bertanya-tanya, mengapa kita perlu mempelajari bahasa C? Pertanyaan tersebut akan terjawab setelah menyaksikan video ini!
+7. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://www.youtube.com/watch?v=_h30HBYxtws)<br>
+NTFS, FAT32, exFAT, ext4 and APFS merupakan contoh file systems yang digunakan untuk mengorganisir data yang ada didalam storage drives. Video ini menjelaskan tentang perbedaan antara file systems tersebut dengan file systems lainnya dan bagaimana cara memilih file systems yang tepat.
+8. [FUSE - The Linux Kernel Archives](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+Dalam situs ini menjelaskan definisi serta konsep dari FUSE. Selain itu juga menjelaskan cara kerjanya serta cara menggunakannya.

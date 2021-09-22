@@ -1,63 +1,64 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00  45 L10 Prepare for Week 00
-ZCZC W00  10 L03 GitHub related
-ZCZC W00  30 L04 GitHub Pages related
-ZCZC W00  90 L80 Watching Netflix
-ZCZC W00  20 L01 Enroll all the subject
-ZCZC W00  60 L82 Read a book
-ZCZC W00  30 L99 Design for Instagram feeds
-ZCZC W00  100 L02 Operating System ZOOM meeting
-ZCZC W00  45 L02 Operating System ZOOM meeting for QnA
-ZCZC W00  120 L15 Assignment #5: Reading and watching OS related
-ZCZC W01  5 L22 Operating System Quiz
-ZCZC W01  90 L02 Operating System ZOOM meeting
-ZCZC W01  60 L08 Operating System meeting with teaching assistant
-ZCZC W01  30 L31 Installing VirtualBox
-ZCZC W01  30 L28 Installing putty and winscp
-ZCZC W01  15 L11 Assignment #01
-ZCZC W01  60 L12 Assignment #02
-ZCZC W01  60 L64 Helping OS related problem to a friend
-ZCZC W01  35 L02 Operating System ZOOM meeting for QnA
-ZCZC W01  15 L99 Design a poster
-ZCZC W01  90 L80 Watching Disney+
-ZCZC W01  90 L14 Assignment #04
-ZCZC W01  15 L16 Assignment #06
-ZCZC W01  45 L15 Assignment #05
-ZCZC W01  10 L17 Assignment #07
-ZCZC W01  90 L13 Assignment #03
-ZCZC W01  110 L18 Assignment #08
-ZCZC W01  75 L19 Assignment #09
-ZCZC W01  30 L06 GSGS related
-ZCZC W02  20 L22 OS Quiz
-ZCZC W02  90 L02 Operating System ZOOM meeting
-ZCZC W02  20 L02 Operating System ZOOM meeting for QnA
-ZCZC W02  60 L11 Assignment #01
-ZCZC W02  30 L12 Assignment #02
-ZCZC W02  230 L13 Assignment #03
-ZCZC W02  10 L14 Assignment #04
-ZCZC W02  10 L15 Assignment #05
-ZCZC W02  10 L16 Assignment #06
-ZCZC W02  10 L17 Assignment #07
-ZCZC W02  10 L18 Assignment #08
-ZCZC W02  30 L19 Assignment #09
-ZCZC W02  30 L20 Assignment #10
-ZCZC W02  10 L09 Assignment #11
-ZCZC W02  5 L09 Assignment #12
-ZCZC W02  10 L09 Assignment #13
-ZCZC W02  30 L26 Learning C-Language
-ZCZC W02  15 L81 Listening music
-ZCZC W03  20 L22 OS Quiz
-ZCZC W03  90 L02 Operating System ZOOM meeting
-ZCZC W03  90 L11 Assignment #01
-ZCZC W03  30 L12 Assignment #02
-ZCZC W03  30 L13 Assignment #03
-ZCZC W03  10 L61 Backup my Virtual Box
-ZCZC W03  10 L14 Assignment #04
-ZCZC W03  15 L15 Assignment #05
-ZCZC W03  30 L16 Assignment #06
-ZCZC W03  10 L17 Assignment #07
-ZCZC W03  10 L18 Assignment #08
-ZCZC W03  40 L19 Assignment #09
-ZCZC W03  15 L08 Consulting with teaching assistant
+ZCZC W00 45 L10 Prepare for Week 00
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 30 L04 GitHub Pages related
+ZCZC W00 90 L80 Watching Netflix
+ZCZC W00 20 L01 Enroll all the subject
+ZCZC W00 60 L82 Read a book
+ZCZC W00 30 L99 Design for Instagram feeds
+ZCZC W00 100 L02 Operating System ZOOM meeting
+ZCZC W00 45 L02 Operating System ZOOM meeting for QnA
+ZCZC W00 120 L15 Assignment #5: Reading and watching OS related
+ZCZC W01 5 L22 Operating System Quiz
+ZCZC W01 90 L02 Operating System ZOOM meeting
+ZCZC W01 60 L08 Operating System meeting with teaching assistant
+ZCZC W01 30 L31 Installing VirtualBox
+ZCZC W01 30 L28 Installing putty and winscp
+ZCZC W01 15 L11 Assignment #01
+ZCZC W01 60 L12 Assignment #02
+ZCZC W01 60 L64 Helping OS related problem to a friend
+ZCZC W01 35 L02 Operating System ZOOM meeting for QnA
+ZCZC W01 15 L99 Design a poster
+ZCZC W01 90 L80 Watching Disney+
+ZCZC W01 90 L14 Assignment #04
+ZCZC W01 15 L16 Assignment #06
+ZCZC W01 45 L15 Assignment #05
+ZCZC W01 10 L17 Assignment #07
+ZCZC W01 90 L13 Assignment #03
+ZCZC W01 110 L18 Assignment #08
+ZCZC W01 75 L19 Assignment #09
+ZCZC W01 30 L06 GSGS related
+ZCZC W02 20 L22 OS Quiz
+ZCZC W02 90 L02 Operating System ZOOM meeting
+ZCZC W02 20 L02 Operating System ZOOM meeting for QnA
+ZCZC W02 60 L11 Assignment #01
+ZCZC W02 30 L12 Assignment #02
+ZCZC W02 230 L13 Assignment #03
+ZCZC W02 10 L14 Assignment #04
+ZCZC W02 10 L15 Assignment #05
+ZCZC W02 10 L16 Assignment #06
+ZCZC W02 10 L17 Assignment #07
+ZCZC W02 10 L18 Assignment #08
+ZCZC W02 30 L19 Assignment #09
+ZCZC W02 30 L20 Assignment #10
+ZCZC W02 10 L09 Assignment #11
+ZCZC W02 5 L09 Assignment #12
+ZCZC W02 10 L09 Assignment #13
+ZCZC W02 30 L26 Learning C-Language
+ZCZC W02 15 L81 Listening music
+ZCZC W03 20 L22 OS Quiz
+ZCZC W03 90 L02 Operating System ZOOM meeting
+ZCZC W03 90 L11 Assignment #01
+ZCZC W03 30 L12 Assignment #02
+ZCZC W03 30 L13 Assignment #03
+ZCZC W03 10 L61 Backup my Virtual Box
+ZCZC W03 10 L14 Assignment #04
+ZCZC W03 15 L15 Assignment #05
+ZCZC W03 30 L16 Assignment #06
+ZCZC W03 10 L17 Assignment #07
+ZCZC W03 10 L18 Assignment #08
+ZCZC W03 40 L19 Assignment #09
+ZCZC W03 15 L08 Consulting with teaching assistant
+ZCZC W03 30 L64 Helping OS related problem to a friend

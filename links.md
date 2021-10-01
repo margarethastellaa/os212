@@ -26,3 +26,7 @@ Mungkin beberapa dari kita bertanya-tanya, mengapa kita perlu mempelajari bahasa
 NTFS, FAT32, exFAT, ext4 and APFS merupakan contoh file systems yang digunakan untuk mengorganisir data yang ada didalam storage drives. Video ini menjelaskan tentang perbedaan antara file systems tersebut dengan file systems lainnya dan bagaimana cara memilih file systems yang tepat.
 8. [FUSE - The Linux Kernel Archives](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 Dalam situs ini menjelaskan definisi serta konsep dari FUSE. Selain itu juga menjelaskan cara kerjanya serta cara menggunakannya.
+
+## Week04
+9. [Main Memory](https://www.webopedia.com/definitions/main-memory/)<br>
+Rangkuman umum tentang Main Memory. Website ini menjelaskan secara padat apa yang dimaksud dari main memory. Website ini sangat membantu kita untuk memahami fondasi dari suatu main memori.

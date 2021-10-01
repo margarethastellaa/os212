@@ -66,4 +66,12 @@ ZCZC W03 40 L02 Operating System ZOOM meeting for QnA
 ZCZC W04 20 L22 Operating System Quiz
 ZCZC W04 90 L02 Operating System ZOOM meeting
 ZCZC W04 40 L02 Operating System ZOOM meeting for QnA
-
+ZCZC W04 60 L11 Assignment #01
+ZCZC W04 30 L12 Assignment #02
+ZCZC W04 30 L13 Assignment #03
+ZCZC W04 10 L14 Assignment #04
+ZCZC W04 30 L15 Assignment #05
+ZCZC W04 15 L16 Assignment #06
+ZCZC W04 10 L17 Assingment #07
+ZCZC W04 5  L18 Assignment #08
+ZCZC W04 10 L19 Assignment #09

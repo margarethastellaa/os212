@@ -30,3 +30,9 @@ Dalam situs ini menjelaskan definisi serta konsep dari FUSE. Selain itu juga men
 ## Week04
 9. [Main Memory](https://www.webopedia.com/definitions/main-memory/)<br>
 Rangkuman umum tentang Main Memory. Website ini menjelaskan secara padat apa yang dimaksud dari main memory. Website ini sangat membantu kita untuk memahami fondasi dari suatu main memori.
+
+## Week05
+10. [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ)<br>
+Video ini sangat berguna bagi pemula yang ingin belajar mulai dari konsep dan pengertian virtual memory hingga cara kerjanya. Disajikan dalam bentuk audio visual sehingga lebih menarik.
+11. [Virtual Memory in OS: What is, Demand Paging, Advantages](https://www.guru99.com/virtual-memory-in-operating-system.html)<br>
+Berisi rangkuman tentang virtual memory. Dibahas secara runtut dan jelas mulai dari pengertian, kegunaan, cara kerja, hingga kekurangan dan kelebihannya.

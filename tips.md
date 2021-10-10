@@ -1,3 +1,7 @@
+---
+permalink: /TIPS/
+---
+
 # 📝 TIPS 📝
 
 1. Memiliki rasa ingin tahu yang tinggi sehingga dapat mengeksplor hal baru dalam sistem operasi. <br>

@@ -36,3 +36,9 @@ Rangkuman umum tentang Main Memory. Website ini menjelaskan secara padat apa yan
 Video ini sangat berguna bagi pemula yang ingin belajar mulai dari konsep dan pengertian virtual memory hingga cara kerjanya. Disajikan dalam bentuk audio visual sehingga lebih menarik.
 11. [Virtual Memory in OS: What is, Demand Paging, Advantages](https://www.guru99.com/virtual-memory-in-operating-system.html)<br>
 Berisi rangkuman tentang virtual memory. Dibahas secara runtut dan jelas mulai dari pengertian, kegunaan, cara kerja, hingga kekurangan dan kelebihannya.
+
+## Week06
+12. [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+Tulisan ini membantu kita untuk memahami apa itu Threads dan Concurrency, mulai dari konsepnya hingga kelebihan dan kekurangannya. Selain itu kita dapat belajar mengenai beberapa mekanisme yang terkait dengannya seperti mutex dan variabel bersyarat.
+13. [Process Management (Processes and Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU)<br>
+Dalam video ini menjelaskan konsep dan contoh dari Process Management, Processes, Threads, dan perbedaan antara processes dan threads. Dengan menyaksikan video ini, kita dapat lebih memahami tentang process management.

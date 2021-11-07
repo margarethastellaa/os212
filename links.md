@@ -42,3 +42,7 @@ Berisi rangkuman tentang virtual memory. Dibahas secara runtut dan jelas mulai d
 Tulisan ini membantu kita untuk memahami apa itu Threads dan Concurrency, mulai dari konsepnya hingga kelebihan dan kekurangannya. Selain itu kita dapat belajar mengenai beberapa mekanisme yang terkait dengannya seperti mutex dan variabel bersyarat.
 13. [Process Management (Processes and Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU)<br>
 Dalam video ini menjelaskan konsep dan contoh dari Process Management, Processes, Threads, dan perbedaan antara processes dan threads. Dengan menyaksikan video ini, kita dapat lebih memahami tentang process management.
+
+## Week07
+14. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/?ref=lbp)
+Salah satu materi OS pada pekan ini membahas tentang synchronization. Artikel dari geeksforgeeks ini membahas tentang proses synchronization yang sangat baik untuk kita ketahui

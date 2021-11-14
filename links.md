@@ -46,3 +46,8 @@ Dalam video ini menjelaskan konsep dan contoh dari Process Management, Processes
 ## Week07
 14. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/?ref=lbp)
 Salah satu materi OS pada pekan ini membahas tentang synchronization. Artikel dari geeksforgeeks ini membahas tentang proses synchronization yang sangat baik untuk kita ketahui
+
+## Week08
+15. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+Salah satu sumber valid yang berisi panduan cara mengunduh LFS versi terbaru. Tahapan dituliskan secara runtut dan jelas, sehingga mudah dipahami.
+

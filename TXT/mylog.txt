@@ -133,3 +133,18 @@ ZCZC W08 10 L19 Assignment #09
 ZCZC W08 25 L08 Asking teaching assistant
 ZCZC W08 30 L64 Helping OS related problem to a friend
 ZCZC W08 30 L02 Operating System ZOOM meeting for QnA
+
+ZCZC W09 20 L22 OS Quiz
+ZCZC W09 100 L02 Operating System ZOOM meeting
+ZCZC W09 30 L11 Assignment #01
+ZCZC W09 15 L12 Assignment #02
+ZCZC W09 20 L13 Assignment #03
+ZCZC W09 30 L02 Operating System ZOOM meeting for QnA
+ZCZC W09 10 L61 Backup my Virtual Box
+ZCZC W09 20 L08 Asking teaching assistant
+ZCZC W09 15 L64 Helping OS related problem to a friend
+ZCZC W09 240 L14 Assignment #04
+ZCZC W09 15 L15 Assignment #05
+ZCZC W09 10 L17 Assignment #07
+ZCZC W09 10 L18 Assignment #08
+ZCZC W09 10 L19 Assignment #09

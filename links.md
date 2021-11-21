@@ -44,10 +44,13 @@ Tulisan ini membantu kita untuk memahami apa itu Threads dan Concurrency, mulai 
 Dalam video ini menjelaskan konsep dan contoh dari Process Management, Processes, Threads, dan perbedaan antara processes dan threads. Dengan menyaksikan video ini, kita dapat lebih memahami tentang process management.
 
 ## Week07
-14. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/?ref=lbp)
+14. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/?ref=lbp)<br>
 Salah satu materi OS pada pekan ini membahas tentang synchronization. Artikel dari geeksforgeeks ini membahas tentang proses synchronization yang sangat baik untuk kita ketahui
 
 ## Week08
 15. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
 Salah satu sumber valid yang berisi panduan cara mengunduh LFS versi terbaru. Tahapan dituliskan secara runtut dan jelas, sehingga mudah dipahami.
 
+## Week09
+16. [Boot the System](https://linuxjourney.com/lesson/boot-process-overview) <br>
+Setelah belajar tentang beberapa komponen penting Linux, link ini penting untuk mempelajari tentang bagaimana sistem melakukan booting yang dimulai dari BIOS hingga Init.

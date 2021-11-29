@@ -30,10 +30,7 @@ ZCZC W08 soplanz
 ZCZC W09 SyahdanPutra
 ZCZC W09 stndaru
 ZCZC W09 stevennovaryo
-<<<<<<< HEAD
-=======
 
 ZCZC W10 tsabitasarah
 ZCZC W10 trmazayal
 ZCZC W10 teukufaiz
->>>>>>> e2525f3 (OS212 margarethastellaa W10 TXT)
